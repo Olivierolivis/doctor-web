@@ -1,6 +1,4 @@
 body {
-        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-        line-height: 1.6;
         color: #333;
         background-color: #f4f7f6;
         margin: 0;
@@ -33,7 +31,7 @@ body {
     }
 
     table[border="1"], td {
-        border: 1px solid #edf2f7 !important;
+        border: 1px solid #edf2f7;
     }
 
     section {
@@ -68,7 +66,7 @@ body {
         margin: 8px 0;
         border: 1px solid #ccc;
         border-radius: 4px;
-        box-sizing: border-box; /* Important for alignment */
+        box-sizing: border-box;
     }
 
     img {
@@ -115,7 +113,7 @@ footer {
 }
 
 .btn-secondary:hover {
-    background-color: #d2e3fc !important;
+    background-color: #d2e3fc;
 }
 
 .hero-section {
